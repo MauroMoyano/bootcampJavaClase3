@@ -5,3 +5,10 @@
   "answer": 0,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
+{
+    "category": "Dota 2",
+    "question": "¿Cuál de estos héroes en Dota 2 puede convertirse en una sombra y atravesar unidades?",
+    "options": ["Shadow Fiend", "Necrophos", "Silencer"],
+    "answer": 0,
+    "explanation": "Shadow Fiend puede convertirse en una sombra con su habilidad 'Shadowraze', lo que le permite atravesar unidades y causar daño en un área específica."
+  }
